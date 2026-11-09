@@ -1,3 +1,4 @@
+```mermaid
 gantt
     title Planificación del Proyecto
     dateFormat  YYYY-MM-DD
